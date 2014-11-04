@@ -1,0 +1,10 @@
+11/3/2014 tts notes
+
+Case statements > if else statements 
+
+loops!
+
+---Rails---
+
+  
+
